@@ -1,0 +1,6 @@
+flask
+torch
+torchvision
+clip-by-openai
+Pillow
+requests
